@@ -1,4 +1,4 @@
-Flaskr
+Flaskr NICOLAS DAMW
 ======
 
 The basic blog app built in the Flask `tutorial`_.
